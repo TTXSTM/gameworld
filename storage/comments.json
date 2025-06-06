@@ -1,0 +1,312 @@
+[
+  {
+    "reviewId": 1746483056721,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "Аывыаваыва",
+    "date": "2025-05-13T12:49:05.447Z",
+    "likes": 0,
+    "id": 1747140545453,
+    "likedBy": [
+      "user@example.com"
+    ]
+  },
+  {
+    "reviewId": 1746483056721,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "ываываываыва",
+    "date": "2025-05-13T12:49:08.993Z",
+    "likes": 0,
+    "id": 1747140548995,
+    "likedBy": [
+      "user@example.com"
+    ]
+  },
+  {
+    "reviewId": 1746483056721,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "фывфывфывфыв",
+    "date": "2025-05-13T12:49:10.876Z",
+    "likes": 0,
+    "id": 1747140550881,
+    "likedBy": [
+      "user@example.com"
+    ]
+  },
+  {
+    "reviewId": 1746484237916,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "выываыва",
+    "date": "2025-05-13T12:49:30.056Z",
+    "likes": 0,
+    "id": 1747140570062,
+    "likedBy": [
+      "user@example.com"
+    ]
+  },
+  {
+    "reviewId": 1746484237916,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "ываываыва",
+    "date": "2025-05-13T12:49:31.858Z",
+    "likes": 0,
+    "id": 1747140571860,
+    "likedBy": [
+      "user@example.com"
+    ]
+  },
+  {
+    "reviewId": 1746484237916,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "ываываываы",
+    "date": "2025-05-13T12:49:33.520Z",
+    "likes": 0,
+    "id": 1747140573522,
+    "likedBy": [
+      "user@example.com"
+    ]
+  },
+  {
+    "reviewId": 1747141058664,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "ываываываыв",
+    "date": "2025-05-13T12:59:29.374Z",
+    "likes": 16,
+    "id": 1747141169382,
+    "likedBy": [
+      "user@example.com",
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1747141058664,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "ываываываыв",
+    "date": "2025-05-13T12:59:30.953Z",
+    "likes": 1,
+    "id": 1747141170956,
+    "likedBy": [
+      "user@example.com",
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1747141058664,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "ываываываыв",
+    "date": "2025-05-13T12:59:32.135Z",
+    "likes": 1,
+    "id": 1747141172138,
+    "likedBy": [
+      "user@example.com",
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1747141058664,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "ываываыва",
+    "date": "2025-05-13T12:59:33.228Z",
+    "likes": 1,
+    "id": 1747141173231,
+    "likedBy": [
+      "user@example.com",
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1747141058664,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "sdasdasd",
+    "date": "2025-05-13T20:43:52.566Z",
+    "likes": 1,
+    "id": 1747169032662,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1747141058664,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "asdasdasd",
+    "date": "2025-05-13T20:43:59.685Z",
+    "likes": 1,
+    "id": 1747169039689,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 123,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "1",
+    "date": "2025-05-13T20:44:58.176Z",
+    "likes": 1,
+    "id": 1747169098178,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 123,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "ыыы",
+    "date": "2025-05-13T20:58:17.698Z",
+    "likes": 1,
+    "id": 1747169897701,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1747141058664,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "dsdfsdf",
+    "date": "2025-05-13T22:41:56.029Z",
+    "likes": 1,
+    "id": 1747176116032,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1746478115698,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "1",
+    "date": "2025-05-14T00:14:24.015Z",
+    "likes": 1,
+    "id": 1747181664017,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "author": "Vica",
+    "text": "sadfsdf",
+    "reviewId": 1,
+    "date": "2025-05-14T21:16:16.424Z",
+    "likes": 0,
+    "likedBy": [],
+    "id": 1747257376435
+  },
+  {
+    "reviewId": 1,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "ff",
+    "date": "2025-05-14T21:38:57.355Z",
+    "likes": 1,
+    "id": 1747258737359,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "sadfsdf",
+    "date": "2025-05-14T21:39:00.290Z",
+    "likes": 1,
+    "id": 1747258740292,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "sdasda",
+    "date": "2025-05-17T09:25:20.904Z",
+    "likes": 0,
+    "id": 1747473920909
+  },
+  {
+    "reviewId": 1747141058664,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "sadasdasd",
+    "date": "2025-05-17T09:25:31.375Z",
+    "likes": 1,
+    "id": 1747473931381,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1001,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "saasd",
+    "date": "2025-05-17T09:25:43.974Z",
+    "likes": 1,
+    "id": 1747473943979,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 2,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "fff",
+    "date": "2025-05-17T09:25:56.692Z",
+    "likes": 0,
+    "id": 1747473956697
+  },
+  {
+    "reviewId": 1001,
+    "author": "Vica",
+    "avatar": "/uploads/1746048232854.jpg",
+    "text": "chfhchc",
+    "date": "2025-05-18T18:08:07.414Z",
+    "likes": 1,
+    "id": 1747591687417,
+    "likedBy": [
+      "vica@ex.com"
+    ]
+  },
+  {
+    "reviewId": 1749201638208,
+    "author": "Drone",
+    "avatar": "/uploads/1749199610185.jpg",
+    "text": "123",
+    "date": "2025-06-06T09:20:56.678Z",
+    "likes": 0,
+    "id": 1749201656688
+  },
+  {
+    "reviewId": 1,
+    "author": "Drone",
+    "avatar": "/uploads/1749225636810.jpg",
+    "text": "супер\n",
+    "date": "2025-06-06T16:19:11.113Z",
+    "likes": 0,
+    "id": 1749226751124
+  },
+  {
+    "reviewId": 1747141058664,
+    "author": "Drone",
+    "avatar": "/uploads/1749225636810.jpg",
+    "text": "супер !!!\n",
+    "date": "2025-06-06T16:29:14.485Z",
+    "likes": 0,
+    "id": 1749227354496
+  }
+]

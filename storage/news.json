@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Diablo IV",
+    "description": "Погрузитесь в тёмный фэнтези-мир...",
+    "image": "/news-diablo.jpg",
+    "views": 547,
+    "author": "GameWorld",
+    "content": "Diablo IV — это продолжение легендарной серии от Blizzard. Игроков ждёт хардкорный геймплей, глубокий лор и кровавые сражения в открытом мире.",
+    "date": "2025-05-15T10:12:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Обновление Cyberpunk 2077",
+    "description": "CD Projekt RED выпустила обновление 2.1.",
+    "content": "CD Projekt RED выпустила обновление 2.1.",
+    "author": "GameWorld",
+    "image": "/news-cyberpunk.jpg",
+    "views": 349,
+    "date": "2025-05-15T10:12:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Анонс новой консоли",
+    "description": "Nintendo анонсирует консоль нового поколения.",
+    "content": "Nintendo анонсирует консоль нового поколения.",
+    "author": "GameWorld",
+    "image": "/news-switch.jpg",
+    "views": 184,
+    "date": "2025-05-15T10:12:00Z"
+  }
+]

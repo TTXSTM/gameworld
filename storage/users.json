@@ -1,0 +1,64 @@
+[
+  {
+    "username": "Vica",
+    "email": "vica@ex.com",
+    "avatar": "/uploads/1746048232854.jpg",
+    "views": 26,
+    "likes": 25,
+    "comments": 10,
+    "password": "1234567",
+    "achievements": [],
+    "viewedReviews": [
+      "1747141058664",
+      1747141058664,
+      1746478753205,
+      1746483056721,
+      1746478115698,
+      1747226099668,
+      1746478083603,
+      1747654844278,
+      1747654836347,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "viewedNews": [
+      1
+    ],
+    "viewedArticles": [
+      1001,
+      1002
+    ]
+  },
+  {
+    "id": 1749160718011,
+    "username": "Drone",
+    "email": "Drone@gmail.com",
+    "password": "123",
+    "avatar": "/uploads/1749225636810.jpg",
+    "views": 4,
+    "likes": 0,
+    "comments": 0,
+    "achievements": [],
+    "viewedReviews": [
+      1749201638208,
+      1747141058664
+    ],
+    "viewedNews": [
+      1,
+      3
+    ],
+    "viewedArticles": []
+  }
+]
