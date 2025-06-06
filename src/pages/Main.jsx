@@ -92,7 +92,7 @@ function Main() {
 
         {/* Banner */}
 <section className="pt-4">
-  <div className="relative w-[1310px] h-[583px] overflow-hidden rounded-[10px] mx-auto">
+  <div className="relative w-full max-w-7xl h-[300px] md:h-[583px] overflow-hidden rounded-[10px] mx-auto">
     {/* Слайды */}
     <div
       className="flex h-full transition-transform duration-700 ease-in-out"

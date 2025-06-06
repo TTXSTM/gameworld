@@ -120,7 +120,7 @@ useEffect(() => {
         <img
           src={review.image}
           alt={review.game}
-          className="rounded w-full h-[600px] object-contain mb-8"
+          className="rounded w-full h-60 md:h-[600px] object-contain mb-8"
         />
 
 

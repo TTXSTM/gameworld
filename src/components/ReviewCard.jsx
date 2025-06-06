@@ -3,11 +3,11 @@ import React from "react";
 
 function ReviewCard({ review }) {
   return (
-    <div className="flex bg-[#1B2234] rounded-[8px] overflow-hidden mb-6">
+    <div className="flex flex-col md:flex-row bg-[#1B2234] rounded-[8px] overflow-hidden mb-6">
       <img
         src={review.image}
         alt={review.title}
-        className="w-[240px] h-[160px] object-cover"
+        className="w-full md:w-[240px] h-[160px] object-cover"
       />
       <div className="flex-1 p-4 relative">
         <h3 className="text-white text-xl font-bold font-play mb-1">{review.title}</h3>
