@@ -248,7 +248,7 @@ const handleSave = async (e) => {
     <div className="min-h-screen bg-[#0e1525] text-white font-sans">
       <Header />
       
-      <div className="relative flex px-10 pt-10">
+      <div className="relative flex flex-col md:flex-row px-4 md:px-10 pt-10">
         {showMessageBox && (
           <div
             className={`fixed top-5 right-5 z-50 px-4 py-2 rounded shadow-lg text-white transition-all duration-500 transform ${
@@ -259,7 +259,7 @@ const handleSave = async (e) => {
           </div>
         )}
 
-        <aside className="bg-[#18213A] p-6 rounded-lg w-64 text-center">
+        <aside className="bg-[#18213A] p-6 rounded-lg w-full md:w-64 text-center">
           <img
             src={userData?.avatar ? `http://172.19.0.1:5001${userData.avatar}` : "/default-avatar.png"}
             alt="Аватар"
@@ -366,7 +366,7 @@ const handleSave = async (e) => {
           </button>
         </aside>
 
-        <main className="flex-1 ml-10">
+        <main className="flex-1 md:ml-10 mt-10 md:mt-0">
           <div className="flex gap-4 mb-6">
             <button
               className={`px-4 py-2 font-bold rounded ${activeTab === "achievements" ? "bg-[#4A90E2]" : "bg-[#1B2234]"}`}

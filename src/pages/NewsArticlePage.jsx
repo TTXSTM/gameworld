@@ -83,7 +83,7 @@ if (!hasSentView.current && userData?.email) {
           <p className="text-sm text-gray-400 mb-4">
             {news.author} • Просмотров: {news.views}
           </p>
-          <img src={news.image} alt={news.title} className="w-full h-[400px] object-cover rounded mb-6" />
+          <img src={news.image} alt={news.title} className="w-full h-60 md:h-[400px] object-cover rounded mb-6" />
           <p className="text-lg text-[#D1D5DB] whitespace-pre-wrap mb-6">{news.content}</p>
 
         <h2 className="text-xl font-bold mb-2">Комментарии</h2>

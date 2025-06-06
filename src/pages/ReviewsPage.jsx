@@ -49,11 +49,11 @@ function ReviewsPage() {
         {/* Reviews List */}
         <div className="w-full max-w-7xl flex flex-col gap-4">
           {reviews.map((review, index) => (
-            <div key={index} className="bg-[#1B2234] rounded-lg overflow-hidden flex">
+            <div key={index} className="bg-[#1B2234] rounded-lg overflow-hidden flex flex-col md:flex-row">
                   <img
                     src={review.image}
                     alt={review.game}
-                    className="w-[428px] h-[228px] object-cover flex-shrink-0"
+                    className="w-full md:w-[428px] h-40 md:h-[228px] object-cover flex-shrink-0"
                   />
 
               <div className="p-4 flex-1">

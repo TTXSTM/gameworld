@@ -3,8 +3,8 @@ import { Play } from "lucide-react";
 
 const VideoCard = ({ title, image }) => {
   return (
-    <div className="w-[416px] h-[384px] bg-[#1B2234] rounded-[10px] overflow-hidden font-play">
-      <div className="relative h-[240px] bg-gray-200">
+    <div className="w-full md:w-[416px] bg-[#1B2234] rounded-[10px] overflow-hidden font-play">
+      <div className="relative h-60 md:h-[240px] bg-gray-200">
         <img
           src={image}
           alt="video preview"

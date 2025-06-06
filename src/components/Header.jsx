@@ -1,11 +1,12 @@
 // src/components/Header.jsx
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { AuthContext } from "../AuthContext";
 
 function Header() {
   const navigate = useNavigate();
   const { isAuthenticated, userData } = useContext(AuthContext);
+  const [menuOpen, setMenuOpen] = useState(false);
 
   return (
     <header className="flex items-center justify-between w-full max-w-7xl relative h-[113px] mx-auto">
@@ -15,7 +16,15 @@ function Header() {
       >
         GameWorld
       </h1>
-      <nav className="absolute left-1/2 -translate-x-1/2 flex gap-10 items-center">
+      <button
+        onClick={() => setMenuOpen(!menuOpen)}
+        className="md:hidden text-2xl px-2"
+      >
+        ☰
+      </button>
+      <nav
+        className={`${menuOpen ? 'flex' : 'hidden'} absolute md:static left-0 top-full md:top-auto md:left-1/2 md:-translate-x-1/2 flex-col md:flex-row gap-4 md:gap-10 items-center bg-[#18213A] md:bg-transparent w-full md:w-auto p-4 md:p-0`}
+      >
         <Link to="/news" className="text-[20px] hover:text-[#4A90E2]">Новости</Link>
         <Link to="/reviews" className="text-[20px] hover:text-[#4A90E2]">Обзоры</Link>
         <Link to="/video" className="text-[20px] hover:text-[#4A90E2]">Видео</Link>
